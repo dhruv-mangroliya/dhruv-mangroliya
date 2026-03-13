@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Mangroliya</h1>
 
-<h3 align="center">Software Engineer | IIT Guwahati | Full Stack Developer | Distributed Systems Enthusiast</h3>
+<h3 align="center">Software Engineer | IIT Guwahati | Full Stack Developer | System Design Enthusiast</h3>
 
 ---
 
