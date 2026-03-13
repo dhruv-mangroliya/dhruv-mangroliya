@@ -38,7 +38,7 @@ Spring Boot • SQL • Jenkins • Kubernetes
 
 **Indian Institute of Technology (IIT) Guwahati**  
 B.Tech — Biosciences and Bioengineering  
-*Expected Graduation: 2026*
+*Graduation: 2021-2025*
 
 • Focus on **Software Engineering, Distributed Systems, and Data Structures & Algorithms**  
 • Built projects in **full-stack web development, system design, and algorithm optimization**
